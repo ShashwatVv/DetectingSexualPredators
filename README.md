@@ -1,7 +1,7 @@
 # Detecting Sexual Predators 
 
 ## @author
-- ${Shashwat Vaibhav}$
+- Shashwat Vaibhav
 
 ## Using some existing literature
 - Prepare baseline (one or two) 
